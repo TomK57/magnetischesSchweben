@@ -1,4 +1,4 @@
-# magnetischesSchweben
+# magnetisches Schweben
 Ein Projekt für eine Physik AG 
 
 ## Beschreibung
