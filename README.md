@@ -5,9 +5,7 @@ Ein Projekt für eine Physik AG
 Eine Figur schwebt mit Magnetkraft frei in der Luft.
 
 <!-- <img src="/Pfad/zum/Bild.jpg" alt="Alt-Text" title="das ist der TItel" /> -->
-<img src="ballon.jpg" alt="Beispiel 1" title="Ballon" />
-<img src="snoopy.png" alt="Beispiel 2" title="snoopy" />
-<img src="figur.png" alt="Beispiel 3" title="figur" width="300" />
+<img src="ballon.jpg" alt="Beispiel 1" title="Ballon" />   <img src="snoopy.png" alt="Beispiel 2" title="snoopy" />   <img src="figur.png" alt="Beispiel 3" title="figur" width="300" />
 
 Themen/Ablauf
 - Beschreibung des Projekts und des Ablaufs
